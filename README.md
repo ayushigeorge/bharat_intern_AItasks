@@ -8,4 +8,8 @@
 
 ## TASK 2: AUTO CORRECT
 ## CODE: https://github.com/ayushigeorge/bharat_intern_AItasks/blob/main/Auto%20Correct%20Tool%20.py
+## WORKING VIDEO: https://youtu.be/UjFkQmtkN_k
+
+## Task 3: Translator App
+## CODE:
 ## WORKING VIDEO: 
