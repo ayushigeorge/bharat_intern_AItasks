@@ -11,5 +11,5 @@
 ## WORKING VIDEO: https://youtu.be/UjFkQmtkN_k
 
 ## Task 3: Translator App
-## CODE:
-## WORKING VIDEO: 
+## CODE: https://github.com/ayushigeorge/bharat_intern_AItasks/blob/main/TRANSLATOR%20APP.py
+## WORKING VIDEO: https://youtu.be/kmbk-MovwQg
